@@ -1,0 +1,11 @@
+0 - Successful
+1 - Bad IP for central server
+2 - downloads directory problem
+3 - memmory allocation problem
+
+11 - Client socket problem
+12 - 
+
+21 - Server socket problem
+22 - Server bind problem
+23 - Server can't accept client

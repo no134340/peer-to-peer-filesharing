@@ -1,0 +1,23 @@
+{
+    "fileName": "nameOfFile",
+    "size": 30000,
+    "numOfBlocks": 5,
+    "checkSum": "",
+    "blocks": [
+        {
+            "parentFile": "nameOfFile",
+            "index": 0,
+            "size": 1000
+        },
+        {
+            "parentFile": "nameOfFile",
+            "index": 1,
+            "size": 1000
+        },
+        {
+            "parentFile": "nameOfFile",
+            "index": 2,
+            "size": 1000
+        }
+    ]
+}

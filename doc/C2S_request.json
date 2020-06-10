@@ -1,0 +1,5 @@
+{
+    "command" : "download",
+    "parentFileName" : "fileName",
+    "index" : 0
+}

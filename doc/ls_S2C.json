@@ -1,0 +1,22 @@
+{
+    "files": [
+        {
+            "fileName": "nameOfFile",
+            "size": 30000,
+            "numOfBlocks": 5,
+            "checkSum": ""
+        },
+        {
+            "fileName": "nameOfFile2",
+            "size": 30000,
+            "numOfBlocks": 5,
+            "checkSum": ""
+        },
+        {
+            "fileName": "nameOfFile3",
+            "size": 30000,
+            "numOfBlocks": 5,
+            "checkSum": ""
+        }
+    ]
+}
